@@ -1,0 +1,1 @@
+SELECT * FROM `sample_db`.`survey` LIMIT 1000;
